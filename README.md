@@ -7,6 +7,9 @@ A simple React application built with ❤️ and hosted for free on **Netlify**.
 ## 🌐 Live Demo
 👉 https://cheery-monstera-7e4c14.netlify.app/
 
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/12ddc75a-bb04-415f-a8d4-65b1f39dcdd6" />
+
+
 ---
 
 ## 📂 Project Structure
