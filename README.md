@@ -5,7 +5,7 @@ A simple React application built with ❤️ and hosted for free on **Netlify**.
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to view the app](https://cheery-monstera-7e4c14.netlify.app/))
+👉 https://cheery-monstera-7e4c14.netlify.app/
 
 ---
 
